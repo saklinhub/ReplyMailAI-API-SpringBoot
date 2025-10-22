@@ -1,5 +1,6 @@
-package com.email.MailGenerator_API;
+package com.email.MailGenerator_API.service;
 
+import com.email.MailGenerator_API.model.EmailRequest;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Value;
